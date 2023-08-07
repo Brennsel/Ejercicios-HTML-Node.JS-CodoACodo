@@ -1,0 +1,13 @@
+Desarrollar Paginas Web Dinamicas
+
+Frontend (Cliente Cliente Cliente... etc)
+
+HTML (Contenido de la pagina)
+CSS  (Estilos y Maquetizacion)
+Bootstraps
+Javascript (Cerebro)
+
+Backend
+Node JS - Express
+
+Base de Datos (mySQL)
