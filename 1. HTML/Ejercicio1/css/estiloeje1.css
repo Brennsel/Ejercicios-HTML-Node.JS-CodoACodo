@@ -1,0 +1,19 @@
+body{
+    color: #1933cb;
+    background-color: #aadfdd;
+    text-align: center;
+}
+
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+strong{
+    color: crimson
+}
+
+.amarillo{
+    color: yellow;
+}
