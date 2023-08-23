@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align: center;
+    margin: 25px;
+}
+
+.caja{
+    width: 60%;
+    margin: 30px auto;
+}
+
+p{
+    border: 7px solid rgb(252, 140, 237);
+    padding: 10px;
+}
+
+img{
+    /*position: relative;*/
+    /*position: absolute;*/
+    position: fixed;
+    left: 40%;
+    bottom: 200px;
+    opacity: 0.5;
+}
+
